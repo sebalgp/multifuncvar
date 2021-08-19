@@ -1,7 +1,7 @@
 //Libraries
 #include <stdlib.h>
 #include <iostream>
-#include "multivar.h"
+#include "multifuncvar.h"
 
 using namespace std;
 
